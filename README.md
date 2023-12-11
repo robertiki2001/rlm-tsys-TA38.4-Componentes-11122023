@@ -1,4 +1,5 @@
-# TA34Componentes
+# TA38.4 Componentes
+Link de la aplicación: https://main.di2rtv24gwrsa.amplifyapp.com/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
 
